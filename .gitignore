@@ -1,0 +1,9 @@
+# Reference material and local verification output
+微信图片_*.jpg
+preview.png
+Verify.exe
+.verification/
+名称提取工具/Verify.exe
+*.pdb
+*.user
+.vs/
