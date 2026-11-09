@@ -42,7 +42,7 @@ BAT 适用于简体中文 Windows（脚本按 GBK 编码）。其他语言系统
 所有读取均在本机完成，不上传文件；只创建用户导出的 TXT。
 
 六、开源方案检索与实现
-按要求先检索并查看了相似的开源方案 DirLister：
+参考了相似的开源方案 DirLister：
 https://github.com/SanderSade/DirLister
 它支持 TXT 等多种输出、拖放、隐藏文件和目录列表功能，采用 MPL-2.0。
 本工具需求较小，采用系统自带 .NET Framework / Windows Forms 独立实现，
